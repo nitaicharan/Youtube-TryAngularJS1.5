@@ -15,3 +15,5 @@ Build great products with code: http://joincfe.com/
 For a list of Full Premium Courses on Udemy: http://bit.ly/16u7a45
 
 Sign up for Free on Udemy: http://bit.ly/1e4F6Wz
+
+Full project: https://github.com/codingforentrepreneurs/Try-Angular-1.5
