@@ -1,5 +1,14 @@
 # Youtube-TryAngularJS1.5
 
+![Try AngularJS 1.5 Logo](https://cfe-static.s3.amazonaws.com/media/try-angularjs-15/images/try_angular_15.png)
+
+[Learn AngularJS](https://www.codingforentrepreneurs.com/projects/try-angularjs-15/) in this step-by-step series. The goal is to build something real while discussing the technology behind the code.
+
+Subscribe to [YouTube Channel](http://joincfe.com/projects)
+
+Team CFE
+
+
 ### Channel Info
 
 Web Development | Django, Python, Javascript, React, Angular, & More
