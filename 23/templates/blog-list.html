@@ -1,0 +1,13 @@
+<h1>Blog List</h1>
+<div>
+    <ul>
+        <li ng-repeat="item in items">
+            <a
+            ng-href='#'
+            confirm-click='Are you ready?'
+            confirmed-click='goToItem(item)'/>
+                {{ item.title }} {{ item.publishDate }}
+            </a>
+        </li>
+    </ul>
+</div>
